@@ -1,4 +1,8 @@
-## Hi there 👋
+## Rikartt
+
+Hi, I'm a young enthusiast of language, books, science, and coding, publishing different passion projects here on Github! To reach me, contact my discord, linked below.
+
+Discord: discord.com/users/361926887439728653
 
 <!--
 **Rikartt/Rikartt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
